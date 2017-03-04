@@ -1,0 +1,19 @@
+{
+  "name": "hacktech",
+  "version": "1.0.0",
+  "description": "Motion detection with Kinect",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannycho7/KinectMotion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannycho7/KinectMotion/issues"
+  },
+  "homepage": "https://github.com/dannycho7/KinectMotion#readme"
+}
