@@ -1,5 +1,5 @@
 {
-  "name": "hacktech",
+  "name": "kinetic motion detection",
   "version": "1.0.0",
   "description": "Motion detection with Kinect",
   "main": "app.js",
